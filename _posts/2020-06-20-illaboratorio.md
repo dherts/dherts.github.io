@@ -1,7 +1,7 @@
 ---
 layout: post
 author: dylan
-title: "Il Laboratorio (June 2020)"
+title: "Il Laboratorio - June 20, 2020"
 ---
 The last few months have been strange, to say the least.  But it's gotten warmer, I've moved to New York City, and on a warm summer afternoon,  I strolled down through the East Village with some old friends to visit Il Laboratorio.
 
