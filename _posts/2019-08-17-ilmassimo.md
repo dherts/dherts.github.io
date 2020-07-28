@@ -4,8 +4,6 @@ title: Il Massimo del Gelato - August 17, 2019
 categories: icecream
 ---
 
-# Il Massimo del Gelato, August 17, 2019
-
 At the end of our honeymoon, my wife and I had one final day in Milan. The city had emptied out for the summer, and most businesses were closed. She loves gelato, especially chocolate, and so given the shortage of activities, she looked for Milan's best. She found Il Massimo. Thankfully, it was open.
 
 ## What I Tasted
