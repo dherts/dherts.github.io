@@ -7,7 +7,7 @@ After my previous Baskin visit, I still had money on my gift card.  So I went ba
 
 Everyone deserves a second chance, right?  And if that goes well, a third one, too?
 
-I ate both cups on a bench in the median of Houston Ave, watching the traffic thunder by.
+Each time, I ate my scoop on a bench on the median of Houston Ave, watching the traffic thunder by.
 
 ### *What I Tasted:*
 Tastes are currently not allowed due to COVID.
