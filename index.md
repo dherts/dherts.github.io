@@ -4,7 +4,7 @@ layout: default
 
 You’ve reached the personal website of Dylan Herts.
 
-I'm a lawyer. My practice is focused on litigation. I’m particularly interested in antitrust law, conflict of laws, and computers. 
+I'm a lawyer. Mainly, I practice civil litigation. I’m particularly interested in antitrust law, conflict of laws, and computers. 
 
 In my free time, I like to run, hike, listen to jazz, tinker with computers, and eat ice cream.
 
