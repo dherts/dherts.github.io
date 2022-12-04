@@ -4,9 +4,9 @@ layout: default
 
 This is the personal website of Dylan Herts.
 
-I'm a lawyer. I practice civil litigation and antitrust law.
+I'm an antitrust lawyer.
 
-In my free time, I like to run, hike, listen to jazz, tinker with computers, and eat ice cream.
+In my free time, I like to run, hike, tinker with computers, listen to jazz, and eat ice cream.
 
 I occasionally blog on this site, mostly about ice cream.
 
