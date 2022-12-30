@@ -23,7 +23,6 @@ mastodon:
   username:       dherts
   instance:       mastodon.social
 github_username:  dherts
-mastodon_username
 
 # Build settings
 markdown: kramdown
