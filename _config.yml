@@ -14,12 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Dylan Herts
-email: dylan<at>herts<dot>io
+#email: dylan@herts.io
 description: >- # this means to ignore newlines until "baseurl:"
 # DH: Left blank for now
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  dherts
+#github_username:  dherts
 
 # Build settings
 markdown: kramdown
